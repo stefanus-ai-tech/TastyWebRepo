@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# TastyWebRepo
-=======
 # Tasty Web
 
 ## Getting Started
